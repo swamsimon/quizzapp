@@ -1,3 +1,5 @@
 *.dart linguist-language=Dart
-*.cpp linguist-language=ignore
-*.h linguist-language=ignore
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
+android/* linguist-vendored
+linux/* linguist-vendored
